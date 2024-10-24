@@ -1,0 +1,2 @@
+*.sh text eol=lf
+gradle/wrapper/gradle-wrapper.properties text eol=lf
